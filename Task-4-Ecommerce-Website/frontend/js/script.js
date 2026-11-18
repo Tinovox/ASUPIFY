@@ -1,4 +1,4 @@
-const const API_URL = "https://asupify-ecommerce-api.onrender.com/api";
+const API_URL = "https://asupify-ecommerce-api.onrender.com/api";
 
 let products = [];
 
